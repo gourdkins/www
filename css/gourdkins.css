@@ -1,0 +1,68 @@
+/* CSS Document */
+body {
+	background: #000;
+	color: #FFB600;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
+
+p {
+		font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+		font-family: 'Acme', sans-serif;
+		text-align: center;
+		font-size: 2em;
+}
+
+h2 {
+		font-family: 'Acme', sans-serif;
+		text-align: left;
+		font-size: 1.8em;
+}
+
+h3 {
+		font-family: 'Acme', sans-serif;
+		text-align: left;
+		font-size: 1.5em;
+}
+
+a.visited {
+	color: #FFB600;
+}
+
+a {
+	color: #FFB600;
+}
+
+.button {
+	background-color:#FFB600;
+	color: #000;
+	padding: 15px;
+	border-spacing: 2px 20px;
+	border: 3px solid #C88F00;
+	text-align: center;
+	font-family: 'Acme',Sans-Serif;
+}
+
+.smaller{
+	font-size: 0.8em;
+}
+
+.container {
+	background: #000;
+	color: #FFB600;
+	max-width: 1060px;
+	margin: 0 auto;
+}
+
+.headImg {
+	display: block;
+	margin: auto;
+}
+
+.grid100 {
+	float: left;
+	width: 100%;
+}
